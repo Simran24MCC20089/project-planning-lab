@@ -1,1 +1,2 @@
 Project Summary: This document describes the overall plan.
+Feature: User login and authentication module.
