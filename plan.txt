@@ -1,1 +1,4 @@
 Project Summary: This document describes the overall plan.
+Feature: User login and authentication module.
+Timeline: Complete project within 3 months.
+
